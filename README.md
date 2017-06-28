@@ -1,3 +1,3 @@
 # hellow-world
-My first reposity hhh
+My first reposity hhh.
 It's just one reposity.
